@@ -1,9 +1,13 @@
 # Para contribuir: 
 
 1- Create una cuenta en github.
+
 2- Intenta editar algunos de estos documentos.
+
 3- El repositorio se agregara a tu lista y podras hacer todos los cambios que quieras.
+
 4- Dale a New Pull Request para que te de permiso de hacer definitivos los cambios desde la cuenta de Biomecatronica.
+
 5- Los acepto y los veras reflejados en la pagina.
 
 
