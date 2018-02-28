@@ -1,3 +1,5 @@
+Preguntas por el grupo de Biomecatronica o a mi número directamente.
+
 # Para contribuir: 
 
 1- Create una cuenta en github.
